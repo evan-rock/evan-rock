@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## About Me
+### MGIS student at the University of Minnesota just trying to figure this all out. 
 <!--
 **evan-rock/evan-rock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
